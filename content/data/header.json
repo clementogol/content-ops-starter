@@ -74,6 +74,16 @@
     "secondaryLinks": [
         {
             "type": "Link",
+            "altText": "LinkedIn",
+            "url": "https://www.linkedin.com/in/clementogol/",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "altText": "GitHub",
             "url": "https://github.com/Clem-Tee",
             "showIcon": true,
