@@ -13,7 +13,7 @@ sections:
       in data analytics, machine learning, and digital strategy.
     actions:
       - label: Resume
-        altText: ''
+        altText: A button to download my resume
         url: ''
         showIcon: false
         icon: arrowRight
