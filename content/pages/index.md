@@ -89,7 +89,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Digital Marketing & SEO
-        subtitle: The Job Stuff
+        subtitle: Growth Backed by Numbers
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
