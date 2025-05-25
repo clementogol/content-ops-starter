@@ -73,6 +73,16 @@
     ],
     "secondaryLinks": [
         {
+            "type": "Link",
+            "altText": "GitHub",
+            "url": "https://github.com/Clem-Tee",
+            "showIcon": true,
+            "icon": "github",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Log in",
             "url": "/",
             "icon": "arrowRight",
