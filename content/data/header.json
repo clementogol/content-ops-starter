@@ -81,14 +81,6 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
