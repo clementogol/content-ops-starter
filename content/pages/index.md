@@ -64,10 +64,9 @@ sections:
       - type: FeaturedItem
         title: Data Science & Analytics
         subtitle: Insight from Every Byte
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I clean, analyze, and visualize data to uncover trends and drive
+          better decision-making using Python, SQL, and Power BI.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
