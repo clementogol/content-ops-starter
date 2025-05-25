@@ -74,6 +74,16 @@
     "secondaryLinks": [
         {
             "type": "Link",
+            "altText": "YouTube",
+            "url": "https://www.youtube.com/channel/UCqibFG1OakfWfi9p6o6ndNg",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "altText": "LinkedIn",
             "url": "https://www.linkedin.com/in/clementogol/",
             "showIcon": true,
