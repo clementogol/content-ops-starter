@@ -14,7 +14,8 @@ sections:
     actions:
       - label: Resume
         altText: A button to download my resume
-        url: ''
+        url: >-
+          https://drive.google.com/file/d/1peESsRrwRpqIytu_sqO9NvdlE7cazB6N/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
