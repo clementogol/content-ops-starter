@@ -12,7 +12,7 @@ sections:
       Welcome to my portfolio. Here you’ll find projects that reflect my journey
       in data analytics, machine learning, and digital strategy.
     actions:
-      - label: Get started
+      - label: Resume
         altText: ''
         url: /
         showIcon: false
