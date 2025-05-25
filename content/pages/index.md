@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Data Science & Analytics
-        subtitle: Numbers Done
+        subtitle: Insight from Every Byte
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
