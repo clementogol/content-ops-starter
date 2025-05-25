@@ -113,10 +113,9 @@ sections:
         type: FeaturedItem
       - title: Tech Blogging & Content Creation
         subtitle: 'Simplifying Tech, Creatively'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I break down complex tech topics into clear, engaging content that
+          educates and connects with the audience.
         image:
           altText: Featured icon three
           elementId: ''
