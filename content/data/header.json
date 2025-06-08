@@ -22,6 +22,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "About me",
+            "altText": "About Me",
+            "url": "/about-me",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Projects",
             "altText": "Careers page",
             "url": "/careers",
@@ -39,17 +50,6 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "About me",
-            "altText": "About Me",
-            "url": "/about-me",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
             "elementId": ""
         }
     ],
