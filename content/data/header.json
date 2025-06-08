@@ -63,17 +63,6 @@
             "type": "SubNav"
         },
         {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "/projects",
-            "showIcon": true,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "Link",
             "label": "Hire me",
             "altText": "",
